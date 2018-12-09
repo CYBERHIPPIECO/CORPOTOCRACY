@@ -1,6 +1,7 @@
-# corpotocracy
-Narrative Game
+![Project Banner](/assets/template_visuals/temp-banner.png)
 
+<a name="intro"></a>
+# CORPOTOCRACY - Narrative Game
 Ethereal being of a company spreads ahead and above as he moves forward. Legal bubble of bureaucracy wobbles gently, claiming air, reigning over space.
 
 Step by step it dissolves and regains consistency as he moves forward. Swirls of torn papers and distorted thoughts written over them
@@ -39,3 +40,76 @@ behavior and data about behavior."
 
 This is Adam.[ Normal Adam standing in darkness ]His life is full of beauty.[ Agency Adam in his suit and a tie walking through corridors of a company waving to his colleagues ]Long hours on Facebook. [ Normal Adam room, glowing monitor, sitting with his back to us, shelves above, closed curtains smoking a cigarette ]Answering calls from abroad at 2:00am.[ Sleeping Adam sitting on the side of his bed in his bedroom talking to a mobile ]He’s a: Social Media MARKETING Hyper Buzz MARKETING Executive Specialist MARKETING Tactics Supervisor MARKETING Optimization Liason New Media Finance Operative $@%^&**#@^@%...[ walking across a long line of adjectives, the screen becomes brightfully coloured as he goes along with rainbow effect and lots of stars, changes into Agency Adam character ]Popping sleep pills.[ Sleeping Adam very tired lying on bed, popping pills ]Making a steaming coffee in the morning.[ Morning Adam standing kitchen and the living room ]And rolling to work.[ preparing for work, correcting a tie ]A never-ending line of success.
 [ stands in the middle with wide open eyes with his hands spread wide, rays of sun coming from behind him spreading all over the screen ]----In the end plays with his games.Agency Adam game where you can control Adam beat’em up game with PR and Account people.
+
+![GALLERY QUAD](/assets/template_visuals/temp-dual-gallery.png)
+
+Description.
+
+![GALLERY QUAD](/assets/template_visuals/temp-triple-gallery.png)
+
+Description.
+
+![GALLERY QUAD](/assets/template_visuals/temp-quad-gallery.png)
+
+### Table of Contents
+1. [Introduction.](#intro)
+2. [Features.](#features)
+3. [Issues.](#issues)
+4. [Icebox.](#icebox)
+5. [Installation and usage guide.](#install)
+6. [Contributing.](#contribute)
+7. [License.](#license)
+8. [Credits.](#credits)
+9. [Commit Glyphs.](#glyphs)
+
+<a name="features"></a>
+### Features
++ Feature_01
++ Feature_02
++ Feature_03
+
+<a name="issues"></a>
+### Issues
++ Issue_01
++ Issue_02
++ Issue_03
+
+<a name="icebox"></a>
+### Icebox
++ Idea_01
++ Idea_02
++ Idea_03
+
+<a name="install"></a>
+### Installation and Usage Guide
+Include basic necessary components. Gifs if required.
+```
+1. 
+2. 
+3. 
+```
+
+<a name="contribute"></a>
+### Contributing
+Insert project contribution rules if allowed.
+
+<a name="license"></a>
+### License
+Insert project licensing options if there are any.
+
+<a name="credits"></a>
+### Credits
+Insert project creator entities, contributors and their respective presence links.
+
+<a name="glyphs"></a>
+### Commit Glyphs
+
++ ☰ Code structure and formatting
++ ▲ Performance improvements
++ ⨯ File deletion
++ ∗ Bugfix
++ ⬡ New Feature
++ ⎔ Documentation
++ ❑ UI design
++ ⚑ Release
+
